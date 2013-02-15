@@ -1,0 +1,346 @@
+Net "+3.3V"
+REF2.1
+U1.2
+C1.2
+REF3.1
+U1.24
+C2.1
+C4.1
+REF7.1
+U1.52
+C5.1
+REF9.1
+U1.64
+REF10.1
+U1.89
+C6.1
+REF12.1
+U1.112
+C7.2
+REF14.1
+C8.1
+U1.124
+REF18.1
+JP1.2
+REF22.1
+U1.78
+C11.2
+REF23.1
+J3.1
+REF33.1
+R9.2
+R10.2
+R11.2
+R12.2
+R13.2
+R14.2
+REF34.1
+R15.2
+R16.2
+R17.2
+R18.2
+REF35.1
+R19.2
+R20.2
+R21.2
+REF36.1
+
+Net "0V"
+REF1.1
+C1.1
+
+Net "N0004"
+U1.23
+REF4.1
+C2.2
+
+Net "N0009"
+REF5.1
+U1.36
+
+Net "N0011"
+GND.1
+U1.42
+C3.1
+
+Net "N0012"
+U1.41
+C3.2
+
+Net "N0018"
+C4.2
+REF6.1
+U1.51
+
+Net "N0021"
+C5.2
+REF8.1
+U1.63
+
+Net "N0026"
+REF11.1
+U1.92
+C6.2
+
+Net "N0034"
+C8.2
+REF15.1
+U1.125
+C9.2
+
+Net "N0038"
+REF16.1
+U1.141
+
+Net "N0047"
+REF19.1
+JP1.3
+U1.108
+C7.1
+
+Net "N0048"
+JP1.4
+U1.106
+
+Net "N0049"
+JP1.5
+U1.107
+
+Net "__MCLR__"
+JP1.1
+
+Net "N0057"
+U1.80
+J2.D
+
+Net "N0059"
+J2.D-
+U1.79
+
+Net "N0060"
+J2.VBUS
+U1.77
+C10.2
+
+Net "N0064"
+REF20.1
+C11.1
+U1.73
+
+Net "N0071"
+REF24.1
+J3.2
+
+Net "N0074"
+J3.4
+U1.136
+
+Net "N0079"
+U1.115
+J3.19
+
+Net "N0080"
+U1.116
+J3.17
+
+Net "N0081"
+U1.117
+J3.15
+
+Net "N0082"
+U1.118
+J3.13
+
+Net "N0083"
+U1.105
+J3.20
+
+Net "N0085"
+U1.109
+J3.18
+
+Net "N0086"
+U1.110
+J3.16
+
+Net "N0088"
+U1.111
+J3.14
+
+Net "N0091"
+C9.1
+U1.123
+
+Net "N0092"
+U1.119
+J3.12
+
+Net "N0093"
+U1.120
+J3.10
+
+Net "N0094"
+U1.121
+J3.8
+
+Net "N0096"
+U1.122
+J3.6
+
+Net "N0099"
+J2.MTN4
+J2.MTN2
+REF21.1
+C10.1
+J2.GND
+J2.MTN1
+J2.MTN3
+
+Net "N0102"
+U1.137
+J3.3
+
+Net "N0104"
+U1.135
+J3.5
+
+Net "N0105"
+U1.134
+J3.7
+
+Net "N0106"
+U1.133
+J3.9
+
+Net "N0107"
+U1.132
+J3.11
+
+Net "N0111"
+R9.1
+RL1.A
+
+Net "N0112"
+R10.1
+RL2.A
+
+Net "N0113"
+R11.1
+RL3.A
+
+Net "N0114"
+R12.1
+RL4.A
+
+Net "DBG0"
+RL1.C
+U1.126
+
+Net "DBG1"
+RL2.C
+U1.127
+
+Net "DBG2"
+RL3.C
+U1.128
+
+Net "DBG3"
+RL4.C
+U1.129
+
+Net "N0128"
+R13.1
+BL1.A
+
+Net "N0129"
+R14.1
+BL2.A
+
+Net "N0130"
+R15.1
+BL3.A
+
+Net "N0131"
+R16.1
+BL4.A
+
+Net "N0132"
+R17.1
+RL5.A
+
+Net "N0133"
+R18.1
+RL6.A
+
+Net "N0134"
+R19.1
+RL7.A
+
+Net "N0135"
+R20.1
+RL8.A
+
+Net "CON1"
+BL1.C
+U1.14
+
+Net "CON2"
+BL2.C
+U1.15
+
+Net "CON3"
+BL3.C
+U1.21
+
+Net "CON4"
+BL4.C
+U1.22
+
+Net "STAT1"
+RL5.C
+U1.10
+
+Net "STAT2"
+RL6.C
+U1.11
+
+Net "STAT3"
+RL7.C
+U1.12
+
+Net "STAT4"
+RL8.C
+U1.13
+
+Net "JS1"
+U1.6
+
+Net "JS2"
+U1.7
+
+Net "JS3"
+U1.8
+
+Net "JS4"
+U1.9
+
+Net "USBCON"
+U1.25
+BL5.C
+
+Net "CH1_DSP"
+U1.35
+
+Net "CH2_DSP"
+U1.34
+
+Net "CH3_DPS"
+U1.33
+
+Net "CH4_DSP"
+U1.32
+
+Net "N0165"
+R21.1
+BL5.A
+

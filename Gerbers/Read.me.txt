@@ -1,0 +1,24 @@
+Files
+=====
+
+"Proto2 - +33V Plane (Powerplane).gbr" --- 3.3V powerplane Gerber file (layer 3 of 4), positive image with plane and items
+"Proto2 - 0V Plane (Powerplane).gbr" --- 0V powerplane Gerber file (layer 2 of 4), positive image with plane and items
+"Proto2 - Bottom Copper (Paste).gbr" --- Bottom copper pastemask Gerber file, included if needed, but empty
+"Proto2 - Bottom Copper.gbr" --- Bottom copper Gerber file (layer 4 of 4)
+"Proto2 - Bottom Solder Mask.gbr" --- Bottom solder mask
+"Proto2 - Drill Data - Through Hole.drl" --- Excellon drill file (all holes plated)
+"Proto2 - Drill Ident Drawing - Through Hole.drl" --- Gerber drill identifcation image
+"Proto2 - Top Copper.gbr" --- Top copper Gerber file (layer 1 of 4)
+"Proto2 - Top Paste Mask.gbr" --- Top copper pastemask Gerber file
+"Proto2 - Top Silkscreen.gbr" --- Top silkscreen
+"Proto2 - Top Solder Mask.gbr" --- Top solder mask
+"Proto2.mop" - Unknown file exported with Gerber and Excellon files, may have important details regarding positioning, I've included if needed
+
+All files are exported as 2.4, drawings have board outlines
+
+contact
+=======
+
+Jeff Stubler
+brunsa2@gmail.com or stublerj@msoe.edu
+Day/evening phone: (414) 301-2364 (preferred), as backup: (414) 416-7016
